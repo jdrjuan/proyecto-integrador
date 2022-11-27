@@ -1,4 +1,5 @@
 {
+  "engines": { "node": "16.x" },
   "type": "module",
   "name": "proyecto-en-capas",
   "version": "1.0.0",
